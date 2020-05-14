@@ -1,0 +1,7 @@
+[
+{
+  "directory": "E:/AndroidSp/FFmpegPlayVideo/app/.cxx/cmake/release/armeabi-v7a",
+  "command": "F:\\Android\\sdk\\ndk\\21.1.6352462\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi19 --gcc-toolchain=F:/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=F:/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dvideo_EXPORTS -IE:/AndroidSp/FFmpegPlayVideo/app/src/main/cpp/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\video.dir\\video.cpp.o -c E:\\AndroidSp\\FFmpegPlayVideo\\app\\src\\main\\cpp\\video.cpp",
+  "file": "E:\\AndroidSp\\FFmpegPlayVideo\\app\\src\\main\\cpp\\video.cpp"
+}
+]
